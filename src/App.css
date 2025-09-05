@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+  width: 100%;
+  height: 900px;
+  background-color: antiquewhite;
+  background-size: cover;
+}
+
+.greet-back {
+  background: url(./assets/greetBack.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.coin-back {
+  background: url(./assets/coinBack.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.sort-back {
+  background: url(./assets/sortBack.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.date-back {
+  background: url(./assets/dateBack.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
